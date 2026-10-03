@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(255, 206, 91);
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    height: 400px;
+}
+
+.Informacoes{
+    display: flex;
+    width: 600px;
+    height: 400px;
+    flex-direction: column;
+    justify-content: center;
+    text-align: justify;
+}
+
+.PlotTwist{
+    display: flex;
+    background-color: rgb(255, 187, 0);
+    width: 400px;
+    height: 400px;
+    border-radius: 10%;
+    border: 2px solid yellow;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.Filmes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
+
+
