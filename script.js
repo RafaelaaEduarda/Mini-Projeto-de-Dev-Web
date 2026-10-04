@@ -13,11 +13,11 @@ class CartaoSpoiler extends HTMLElement {
             <style>
                 .container {
                     display: flex;
-                    background-color: rgb(255, 187, 0); 
+                    background-color: rgba(206, 50, 30, 0.84); 
                     width: 400px;
                     height: 400px;
                     border-radius: 10%;
-                    border: 2px solid yellow;
+                    border: 2px solid white;
                     justify-content: center;
                     align-items: center;
                     color: white;
