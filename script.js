@@ -13,7 +13,7 @@ class CartaoSpoiler extends HTMLElement {
             <style>
                 .container {
                     display: flex;
-                    background-color: rgba(206, 50, 30, 0.84); 
+                    background-color: #8B1E3F; 
                     width: 400px;
                     height: 400px;
                     border-radius: 10%;
@@ -31,7 +31,7 @@ class CartaoSpoiler extends HTMLElement {
                 
                 /* Classe que será adicionada e removida via JS */
                 .container.ativo {
-                    background-color: rgb(139, 0, 0); /* Vermelho escuro de suspense */
+                    background-color: #5C0A1A;
                     border-color: black;
                     transform: scale(1.05); /* Efeito de pulo/zoom */
                 }
